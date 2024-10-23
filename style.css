@@ -1,0 +1,43 @@
+.title {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+ }
+ 
+ .titleboxraw {
+    border: 7px solid red;
+    padding: 8px;
+ }
+ 
+ .titleboxsd {
+    border: 7px solid blue;
+    padding: 8px;
+ }
+ 
+ .titleboxnxt {
+    border: 7px solid gold;
+    padding: 8px;
+ }
+ 
+ body {
+    background-color: black;
+    background-image: url(Assets/images/wwe_bg.jpg);
+ }
+ 
+ 
+ .boxred {
+    border: 10px solid red;
+    background-color: whitesmoke;
+ }
+ .boxblue {
+    border: 10px solid blue;
+ }
+ .boxgold {
+    border: 10px solid gold;
+ }
+ 
+ 
+ 
+ 
+ 
